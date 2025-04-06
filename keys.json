@@ -1,7 +1,7 @@
 {
     "OPENAI_API_KEY": "",
     "OPENAI_ORG_ID": "",
-    "GEMINI_API_KEY": "",
+    "GEMINI_API_KEY": "AIzaSyBKV6oBdAkFko9-lbuacOwt6FCHfHLDlC8",
     "ANTHROPIC_API_KEY": "",
     "REPLICATE_API_KEY": "",
     "GROQCLOUD_API_KEY": "",
